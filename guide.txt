@@ -1,0 +1,7 @@
+## instalation
+1. go to "counter app"
+2. extract the file
+3. go to output to instal the app
+4. install as usual
+
+license.inc
